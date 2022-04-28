@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TAny",
+	"Description": "Provide a any like type for Unreal Engine",
+	"Category": "DataType",
+	"CreatedBy": "Baptiste Gasser",
+	"CreatedByURL": "https://github.com/baptistegasser/TAny",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/baptistegasser/TAny/issues",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TAnyDatatype",
+			"Type": "RuntimeAndProgram",
+			"LoadingPhase": "Default"
+		}
+	]
+}
