@@ -5,4 +5,4 @@
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
-class FTAnyDatatypeModule : public IModuleInterface {};
+class AnyDatatypeModule : public IModuleInterface {};

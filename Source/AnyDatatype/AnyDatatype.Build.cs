@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class TAnyDatatype : ModuleRules
+public class AnyDatatype : ModuleRules
 {
-	public TAnyDatatype(ReadOnlyTargetRules Target) : base(Target)
+	public AnyDatatype(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 		
