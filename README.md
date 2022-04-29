@@ -37,6 +37,7 @@ General roadmap for the development, not sorted by priority.
 - [ ] Optimization
     - [ ] General : memory, speed...
     - [ ] Avoid dynamic allocations for small, `nothrow_move_constructible` objects
+- [ ] Correct memeory alignement
 - [ ] Support for network replication
 - [ ] Support for blueprint usage
 - [ ] Support for the save system
