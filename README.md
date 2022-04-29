@@ -45,4 +45,4 @@ General roadmap for the development, not sorted by priority.
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE.txt`]() for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
